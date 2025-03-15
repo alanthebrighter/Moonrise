@@ -1,14 +1,14 @@
 # Site
-title: Moonrise
-bio: "Minimal, one column jekyll theme."
-description: "Moonrise is a fresh take on the classic Moon"
+title: Brighter Spot
+bio: "Personal website showcasing Alan Brighter's projects, blog, portfolio, and GitHub repositories with a focus on data, technology, and cybersecurity.."
+description: "Blog documentations."
 reading_time: true
 words_per_minute: 200
 logo: "assets/img/logo.png"
 background: "assets/img/moonrise-background.jpg"
 tiled_bg: false # Set this true if you want to tile your background image, otherwise it will be covered
 locale: en_US
-url: https://TolgaTatli.github.io/Moonrise
+url: https://alanthebrighter.github.io
 
 # Jekyll
 permalink: /:title/
@@ -37,19 +37,19 @@ sass:
 #ad-slot:
 #bing-verify:
 #email:
-twitter: username
-facebook: username
-github-url: username
+twitter: alanthebrighter
+facebook: alanthebrighter
+github-url: alanthebrighter
 #stackoverflow: 123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin: username
 #xing: username
-instagram: username
+instagram: alan1rods
 #lastfm: username
 #tumblr: username
 #medium: '@username'
 #pinterest: username
 #foursquare: username
-steam: username
+steam: alan0x9
 #dribbble: username
 #youtube: username
 #youtube-channel: channel
